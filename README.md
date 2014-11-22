@@ -1,17 +1,16 @@
-GettingAndCleaningData
+Introduction
 ======================
-
 This repo had been builded for the curses project of the MOOC : 
 "Getting and Cleaning Data" by Jeff Leek, PhD, Roger D. Peng, PhD, Brian Caffo, PhD, of Johns Hopkins University
-It contains 
-  the datasets (and documentation) used for this project, see License at the end of ths doc.
-  the R script of this project : run_analysis.R
-  the results obtained by the run_analysis script
+It contains :
+  - the datasets (and documentation) used for this project, see License at the end of ths doc.
+  - the R script of this project : run_analysis.R
+  - the result obtained by the run_analysis script
   
 how the script works 
 ======================
-The script contains the définition of a fuction called GetAndCleanProject(), without argument, that returns
-
+The script contains the définition of a function called GetAndCleanProject(), 
+this function reads the datasets ( training and test) , builds a data frame containing for every subject and activity the mean of a subset of variables observed : only measures of mean ans standard deviation of features from training and test experiments, and returns a this data frame.
 
 the code book describing the variables.
 ======================
