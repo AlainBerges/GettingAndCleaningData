@@ -13,10 +13,10 @@ how the script works
 ======================
 The script contains the définition of a function called GetAndCleanData. 
 this function 
-	- 	reads the datasets (training and test) , 
-	- 	builds a data frame containing for every subject and activity the mean of a subset of variables observed : 
+- 	reads the datasets (training and test) , 
+- 	builds a data frame containing for every subject and activity the mean of a subset of variables observed : 
 		only measures of mean ans standard deviation of features from training and test experiments,
-	- 	returns the data frame.
+- 	returns the data frame.
 
 the code book describing the variables
 =======================================
@@ -77,7 +77,7 @@ The others variables are :
 "fBodyBodyAccJerkMag-std()"       "fBodyBodyGyroMag-std()"         
 "fBodyBodyGyroJerkMag-std()"     
 
-License:
+License
 ========
 Use of this dataset in publications must be acknowledged by referencing the following publication [1] 
 [1] Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
