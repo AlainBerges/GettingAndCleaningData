@@ -1,13 +1,13 @@
 Introduction
 ======================
-This repo had been builded for the curses project of the MOOC : 
-"Getting and Cleaning Data", by Jeff Leek, PhD, Roger D. Peng, PhD, Brian Caffo, PhD, of Johns Hopkins University
-It contains :
-  - 	the datasets (and documentation) used for this project, taken from the study : 
+-	This repo had been builded for the curses project of the MOOC : 
+	"Getting and Cleaning Data", by Jeff Leek, PhD, Roger D. Peng, PhD, Brian Caffo, PhD, of Johns Hopkins 			University
+
+- 	the datasets (and documentation) used for this project, taken from the study : 
 		"Human Activity Recognition Using Smartphones Dataset" publied
-		at International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012 ( See $License at the end of this document)
-  - 	the R script of this project : run_analysis.R
-  - 	the result obtained by an execution of the function defined in the run_analysis script
+		at International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012 ( 		See $License at the end of this document)
+-	It contains :	
+  	- 	the R script of this project : file :run_analysis.R
   
 how the script works 
 ======================
