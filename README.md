@@ -24,16 +24,17 @@ The result of this script is a 81 columns data frame. The description of the fea
 documentation of the datasets of the "Human Activity Recognition Using Smartphones Dataset" experiment. 
 The result of this project is the mean for every subject and activity of some features (mean and standard deviation of timestamped observations).
 
-"Subject" : each value identify a volunteers of the experiment
+-	"Subject" : each value identify a volunteers of the experiment
 	values : 1.;30
-"Activity"  : 6 labels of a human activity observed.
+
+-	"Activity"  : 6 labels of a human activity observed.
 	values : 
-		WALKING
-		WALKING_UPSTAIRS
-		WALKING_DOWNSTAIRS
-		SITTING
-		STANDING
-		LAYING
+	-	WALKING
+	-	WALKING_UPSTAIRS
+	-	WALKING_DOWNSTAIRS
+	-	SITTING
+	-	STANDING
+	-	LAYING
 	
 The others variables are :
 "tBodyAcc-mean()-X"               "tBodyAcc-mean()-Y"              
